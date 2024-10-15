@@ -1,7 +1,7 @@
 # Practicando Java (Ejercicios)
 *Tomados de: Egg Backend con Java. Resueltos por Johana Madroñero*
 ******
-### AñoNazCal.java
+### AñoNasCal.java
 1. Verificación de Edad
 
 Pide al usuario que ingrese su año de nacimiento y almacena el dato en una variable previamente declarada llamada añoNacimiento.
