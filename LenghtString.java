@@ -8,6 +8,5 @@ public class LenghtString {
         int longitud = frase.length();
         System.out.println("La frase tiene " + longitud + " caracteres");
         lengthsc.close();
-        lengthsc.close();
     }
 }
