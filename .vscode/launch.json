@@ -1,0 +1,364 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ArrayNames",
+            "request": "launch",
+            "mainClass": "ArrayNames",
+            "projectName": "Clase1_a655c7ad"
+        },
+        {
+            "type": "java",
+            "name": "ArraySumPosPar",
+            "request": "launch",
+            "mainClass": "ArraySumPosPar",
+            "projectName": "Clase1_a655c7ad"
+        },
+        {
+            "type": "java",
+            "name": "ArrayComp",
+            "request": "launch",
+            "mainClass": "ArrayComp",
+            "projectName": "Clase1_a655c7ad"
+        },
+        {
+            "type": "java",
+            "name": "ArraySearchElem",
+            "request": "launch",
+            "mainClass": "ArraySearchElem",
+            "projectName": "Clase1_a655c7ad"
+        },
+        {
+            "type": "java",
+            "name": "ArrayMax",
+            "request": "launch",
+            "mainClass": "ArrayMax",
+            "projectName": "Clase1_a655c7ad"
+        },
+        {
+            "type": "java",
+            "name": "ArrayCompare",
+            "request": "launch",
+            "mainClass": "ArrayCompare",
+            "projectName": "Clase1_a655c7ad"
+        },
+        {
+            "type": "java",
+            "name": "ArraypromUsser",
+            "request": "launch",
+            "mainClass": "ArraypromUsser",
+            "projectName": "Clase1_a655c7ad"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Abs",
+            "request": "launch",
+            "mainClass": "Abs",
+            "projectName": "Clase1_a655c7ad"
+        },
+        {
+            "type": "java",
+            "name": "AbsMath",
+            "request": "launch",
+            "mainClass": "AbsMath",
+            "projectName": "Clase1_a655c7ad"
+        },
+        {
+            "type": "java",
+            "name": "ArraySum",
+            "request": "launch",
+            "mainClass": "ArraySum",
+            "projectName": "Clase1_a655c7ad"
+        },
+        {
+            "type": "java",
+            "name": "AñoNasCal",
+            "request": "launch",
+            "mainClass": "AñoNasCal",
+            "projectName": "Clase1_a655c7ad"
+        },
+        {
+            "type": "java",
+            "name": "Calificaciones",
+            "request": "launch",
+            "mainClass": "Calificaciones",
+            "projectName": "Clase1_a655c7ad"
+        },
+        {
+            "type": "java",
+            "name": "Condicionales1",
+            "request": "launch",
+            "mainClass": "Condicionales1",
+            "projectName": "Clase1_a655c7ad"
+        },
+        {
+            "type": "java",
+            "name": "Condicionales2",
+            "request": "launch",
+            "mainClass": "Condicionales2",
+            "projectName": "Clase1_a655c7ad"
+        },
+        {
+            "type": "java",
+            "name": "CondicionalesA2",
+            "request": "launch",
+            "mainClass": "CondicionalesA2",
+            "projectName": "Clase1_a655c7ad"
+        },
+        {
+            "type": "java",
+            "name": "Contrasenia",
+            "request": "launch",
+            "mainClass": "Contrasenia",
+            "projectName": "Clase1_a655c7ad"
+        },
+        {
+            "type": "java",
+            "name": "ContraseniaSSec",
+            "request": "launch",
+            "mainClass": "ContraseniaSSec",
+            "projectName": "Clase1_a655c7ad"
+        },
+        {
+            "type": "java",
+            "name": "DeclarandoVariables",
+            "request": "launch",
+            "mainClass": "DeclarandoVariables",
+            "projectName": "Clase1_a655c7ad"
+        },
+        {
+            "type": "java",
+            "name": "Descuento",
+            "request": "launch",
+            "mainClass": "Descuento",
+            "projectName": "Clase1_a655c7ad"
+        },
+        {
+            "type": "java",
+            "name": "DiaHabil",
+            "request": "launch",
+            "mainClass": "DiaHabil",
+            "projectName": "Clase1_a655c7ad"
+        },
+        {
+            "type": "java",
+            "name": "DiaSem",
+            "request": "launch",
+            "mainClass": "DiaSem",
+            "projectName": "Clase1_a655c7ad"
+        },
+        {
+            "type": "java",
+            "name": "Divisible",
+            "request": "launch",
+            "mainClass": "Divisible",
+            "projectName": "Clase1_a655c7ad"
+        },
+        {
+            "type": "java",
+            "name": "Division",
+            "request": "launch",
+            "mainClass": "Division",
+            "projectName": "Clase1_a655c7ad"
+        },
+        {
+            "type": "java",
+            "name": "EqualString",
+            "request": "launch",
+            "mainClass": "EqualString",
+            "projectName": "Clase1_a655c7ad"
+        },
+        {
+            "type": "java",
+            "name": "EsPar",
+            "request": "launch",
+            "mainClass": "EsPar",
+            "projectName": "Clase1_a655c7ad"
+        },
+        {
+            "type": "java",
+            "name": "EsParO2",
+            "request": "launch",
+            "mainClass": "EsParO2",
+            "projectName": "Clase1_a655c7ad"
+        },
+        {
+            "type": "java",
+            "name": "ExpMath",
+            "request": "launch",
+            "mainClass": "ExpMath",
+            "projectName": "Clase1_a655c7ad"
+        },
+        {
+            "type": "java",
+            "name": "LenghtString",
+            "request": "launch",
+            "mainClass": "LenghtString",
+            "projectName": "Clase1_a655c7ad"
+        },
+        {
+            "type": "java",
+            "name": "LimSqrt",
+            "request": "launch",
+            "mainClass": "LimSqrt",
+            "projectName": "Clase1_a655c7ad"
+        },
+        {
+            "type": "java",
+            "name": "Menu",
+            "request": "launch",
+            "mainClass": "Menu",
+            "projectName": "Clase1_a655c7ad"
+        },
+        {
+            "type": "java",
+            "name": "MiEdadEs",
+            "request": "launch",
+            "mainClass": "MiEdadEs",
+            "projectName": "Clase1_a655c7ad"
+        },
+        {
+            "type": "java",
+            "name": "MiNombre",
+            "request": "launch",
+            "mainClass": "MiNombre",
+            "projectName": "Clase1_a655c7ad"
+        },
+        {
+            "type": "java",
+            "name": "MiPrimerPrograma",
+            "request": "launch",
+            "mainClass": "MiPrimerPrograma",
+            "projectName": "Clase1_a655c7ad"
+        },
+        {
+            "type": "java",
+            "name": "NameString",
+            "request": "launch",
+            "mainClass": "NameString",
+            "projectName": "Clase1_a655c7ad"
+        },
+        {
+            "type": "java",
+            "name": "NumberCatch",
+            "request": "launch",
+            "mainClass": "NumberCatch",
+            "projectName": "Clase1_a655c7ad"
+        },
+        {
+            "type": "java",
+            "name": "RandomUsser",
+            "request": "launch",
+            "mainClass": "RandomUsser",
+            "projectName": "Clase1_a655c7ad"
+        },
+        {
+            "type": "java",
+            "name": "Randomnum",
+            "request": "launch",
+            "mainClass": "Randomnum",
+            "projectName": "Clase1_a655c7ad"
+        },
+        {
+            "type": "java",
+            "name": "ReplaceString",
+            "request": "launch",
+            "mainClass": "ReplaceString",
+            "projectName": "Clase1_a655c7ad"
+        },
+        {
+            "type": "java",
+            "name": "RestaCatc",
+            "request": "launch",
+            "mainClass": "RestaCatc",
+            "projectName": "Clase1_a655c7ad"
+        },
+        {
+            "type": "java",
+            "name": "Roundnum",
+            "request": "launch",
+            "mainClass": "Roundnum",
+            "projectName": "Clase1_a655c7ad"
+        },
+        {
+            "type": "java",
+            "name": "SearchString",
+            "request": "launch",
+            "mainClass": "SearchString",
+            "projectName": "Clase1_a655c7ad"
+        },
+        {
+            "type": "java",
+            "name": "SpacesTrim",
+            "request": "launch",
+            "mainClass": "SpacesTrim",
+            "projectName": "Clase1_a655c7ad"
+        },
+        {
+            "type": "java",
+            "name": "SqrtMath",
+            "request": "launch",
+            "mainClass": "SqrtMath",
+            "projectName": "Clase1_a655c7ad"
+        },
+        {
+            "type": "java",
+            "name": "TempConv",
+            "request": "launch",
+            "mainClass": "TempConv",
+            "projectName": "Clase1_a655c7ad"
+        },
+        {
+            "type": "java",
+            "name": "TrimString",
+            "request": "launch",
+            "mainClass": "TrimString",
+            "projectName": "Clase1_a655c7ad"
+        },
+        {
+            "type": "java",
+            "name": "UpperCaseString",
+            "request": "launch",
+            "mainClass": "UpperCaseString",
+            "projectName": "Clase1_a655c7ad"
+        },
+        {
+            "type": "java",
+            "name": "areapem",
+            "request": "launch",
+            "mainClass": "areapem",
+            "projectName": "Clase1_a655c7ad"
+        },
+        {
+            "type": "java",
+            "name": "calculadora",
+            "request": "launch",
+            "mainClass": "calculadora",
+            "projectName": "Clase1_a655c7ad"
+        },
+        {
+            "type": "java",
+            "name": "scanneractividad",
+            "request": "launch",
+            "mainClass": "scanneractividad",
+            "projectName": "Clase1_a655c7ad"
+        },
+        {
+            "type": "java",
+            "name": "substringfrase",
+            "request": "launch",
+            "mainClass": "substringfrase",
+            "projectName": "Clase1_a655c7ad"
+        }
+    ]
+}

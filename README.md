@@ -189,5 +189,114 @@ Crea un programa que solicite al usuario ingresar una frase con espacios en blan
 ### UpperCaseString.java
 Escribe un programa que pida al usuario ingresar una cadena de texto y muestre en pantalla la misma cadena, pero con todos los caracteres en mayúsculas o minúsculas. Utiliza los métodos toUpperCase() y toLowerCase() de la clase String para realizar la conversión.
 ****
+## Math Class
+****
+### AbsMath.java
+✏️  Actividad: Calculando el valor absoluto
+Escribe un programa que  pida al usuario un número entero y muestra en pantalla su valor absoluto utilizando el método abs() de la clase Math.
+****
+### Roundnum.java
+✏️  Actividad: Redondeo de números
+Escribe un programa que pida al usuario un número decimal y muestra en pantalla su valor redondeado utilizando el método round() de la clase Math
+****
+### Randomnum.java
+✏️  Actividad: Generando números aleatorios
+Escribe un programa que genere y muestre en pantalla un número aleatorio en el rango del 1 al 355  utilizando el método random() de la clase Math. Puedes utilizar el método floor() para redondear el número aleatorio hacia abajo.
+****
+### ExpMath.java
+✏️  Actividad: Calculando la potencia
+Escribe un programa que pida al usuario dos números enteros, representando la base y el exponente, y calcula el resultado de elevar la base al exponente utilizando el método pow() de la clase Math. Muestra el resultado en pantalla.
+****
+### SqrtMath.java
+✏️  Actividad: Calculando la raíz cuadrada
+Escribe un programa que pida al usuario un número positivo y calcule su raíz cuadrada utilizando el método sqrt() de la clase Math. Si el número ingresado es negativo, muestra un mensaje adecuado en pantalla.
+****
+### RandomUsser.java
+Generando un número aleatorio entre dos límites
+
+Escribe un programa que pida al usuario ingresar dos números enteros: un límite inferior y un límite superior. Luego, utiliza el método random() de la clase Math para generar y mostrar en pantalla un número aleatorio dentro del rango especificado por los límites ingresados.
+****
+
+### LimSqrt.java
+Generación aleatoria y análisis de raíz cuadrada
+
+Escribe un programa que cumpla con las siguientes condiciones:
+
+    Pide al usuario que ingrese un número entre 1 y 30. Este número será almacenado en una variable llamada numeroLimite .
+    Utiliza la clase Math para generar un número aleatorio entre 1 y el numeroLimite recibido del usuario.
+    Utiliza el método Math.sqrt() para calcular la raíz cuadrada del número aleatorio generado y muéstralo en pantalla.
+    Analiza si el número aleatorio generado es primo y muestra un mensaje en pantalla indicando si lo es o no.
+    Finalmente, muestra el número aleatorio generado y su raíz cuadrada en pantalla.
+****
+### TempConv.java
+✏️  Actividad: Conversión de unidades de temperatura        
+Escribe un programa que cumpla con las siguientes condiciones:
+
+1. Solicita al usuario ingresar una temperatura y una unidad de medida: Celsius (C) o Fahrenheit (F).
+2. Convierte la temperatura a la otra unidad de medida y muestra el resultado en pantalla.
+
+De Celsius a Fahrenheit	De Fahrenheit a Celsius
+[°F] = ([°C] × 9 ⁄ 5) + 32	[°C] = ([°F] − 32) × 5 ⁄ 9      
+
+3. El programa debe manejar al menos las siguientes situaciones:
+
+Si ingresa una unidad de medida inválida, mostrará un mensaje de error.
+Si ingresa una temperatura no válida, mostrará un mensaje de error.
+****
+### ContraseniaSSec.java
+✏️  Actividad:Validación de contraseña      
+Escribe un programa que solicite al usuario que ingrese una contraseña y verifique si cumple con los siguientes criterios para considerarse segura:
+
+La contraseña debe tener al menos 8 caracteres.     
+La contraseña debe contener al menos una letra mayúscula y una letra minúscula.     
+La contraseña debe contener al menos un número.     
+La contraseña debe contener al menos un carácter especial (por ejemplo, !, @, #, $).        
+
+El programa debe mostrar un mensaje indicando si la contraseña es segura o no, según los criterios establecidos. Puedes utilizar métodos de la clase String para verificar cada uno de los criterios.
+
+## Arrays
+****
+### ArraySum.java
+✏️  Actividad: Sumando elementos
+Escribe un programa en el cual se cree una variable de tipo array que contenga tres elementos de tipo entero. El programa debe sumar los tres elementos de forma manual e imprimir por consola el resultado utilizando solamente las herramientas adquiridas hasta el momento.
+****
+### ArraypromUsser.java
+✏️  Actividad: Promediando elementos
+Escribe un programa en el cual se cree una variable de tipo array que contenga cuatro elementos de tipo entero. Estos elementos deben ser ingresados por el usuario. El programa debe sumar y promediar los cuatro elementos de forma manual e imprimir por consola el resultado, utilizando solamente las herramientas adquiridas hasta el momento.
+****
+### ArrayMax.java
+✏️  Actividad: Encontrando el máximo
+Escribe un programa en el cual se cree una variable de tipo array que contenga cinco elementos de tipo entero, ingresados por el usuario. El programa debe buscar el máximo e imprimir por consola el resultado utilizando solamente las herramientas adquiridas hasta el momento.
+****
+### ArraySearchElem.java
+✏️  Actividad: Buscando un elemento
+El programa debe crear un array de tamaño 3 que almacene números enteros. Luego, solicita un número al usuario y muestra por consola si ese número está presente en el array o no. Es importante utilizar únicamente las herramientas aprendidas hasta el momento, sin emplear bucles en el proceso.
+****
+### 
+✏️  Actividad: Copiando elementos
+Desarrolla un programa que inicie creando un array de 3 enteros, con valores predeterminados. Posteriormente, genera una copia del mismo con una extensión de 2 elementos adicionales.
+
+    Solicita al usuario que ingrese dos números para ser almacenados en las nuevas posiciones del array.
+    Finalmente, muestra por consola el contenido del nuevo array.
+    Es esencial emplear exclusivamente las herramientas aprendidas hasta el momento, evitando el uso de bucles en el proceso.
+    ****
+### ArrayComp.java
+Generando un número aleatorio entre dos límites
+
+Escribe un programa en el que se cree una variable de tipo array que contenga seis elementos de tipo entero. El programa debe contar la cantidad de elementos pares presentes en el array y mostrar el resultado por consola utilizando solo las herramientas aprendidas hasta el momento.
+****
+### ArraySumPosPar.java
+Sumando elementos en posiciones pares
+
+Desarrolla un programa que cree un array de tamaño 5 que almacene números enteros. Luego, suma los elementos ubicados en las posiciones pares del array (es decir, las posiciones 0, 2 y 4) y muestra por consola el resultado de la suma. Utiliza exclusivamente las herramientas aprendidas hasta el momento.
+****
+### ArrayNames.java
+Ordenando Nombres Alfabéticamente
+
+Desarrolla un programa que pida al usuario ingresar 4 nombres. Estos nombres serán ordenados alfabéticamente y posteriormente impresos en la consola. Es esencial emplear exclusivamente las herramientas aprendidas hasta el momento.
+
+
+
+
 
 
